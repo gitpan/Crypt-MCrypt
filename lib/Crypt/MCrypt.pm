@@ -13,7 +13,7 @@ package Crypt::MCrypt;
 # This is free software; you can redistribute it and/or modify it under
 # the same terms as the Perl 5 programming language system itself.
 #
-our $VERSION = '0.03'; # VERSION
+our $VERSION = '0.04'; # VERSION
 
 use 5.010;
 
@@ -70,7 +70,7 @@ Crypt::MCrypt - Perl interface for libmcrypt C library.
 
 =head1 VERSION
 
-version 0.03
+version 0.04
 
 =head1 SYNOPSIS
 

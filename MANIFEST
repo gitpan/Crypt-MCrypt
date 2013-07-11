@@ -14,6 +14,7 @@ ppport.h
 t/00-compile.t
 t/00-report-prereqs.t
 t/10-des-cbc.t
+t/10-des-ecb.t
 xt/author/critic.t
 xt/author/pod-spell.t
 xt/release/distmeta.t

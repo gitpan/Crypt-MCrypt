@@ -63,7 +63,7 @@
    "provides" : {
       "Crypt::MCrypt" : {
          "file" : "lib/Crypt/MCrypt.pm",
-         "version" : "0.03"
+         "version" : "0.04"
       }
    },
    "release_status" : "stable",
@@ -78,7 +78,7 @@
          "web" : "https://github.com/shantanubhadoria/crypt-mcrypt"
       }
    },
-   "version" : "0.03",
+   "version" : "0.04",
    "x_contributors" : [
       "Shantanu Bhadoria <shantanu@cpan.org>"
    ]

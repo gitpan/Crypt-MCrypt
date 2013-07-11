@@ -3,6 +3,13 @@ Changes for Crypt::MCrypt
     - Time for the first release
 
 
+0.04
+
+	- 2013-07-11 08:48:57 Asia/Singapore
+
+
+Adding Tests for DES ECB 
+
 0.03
 
 	- 2013-07-09 23:38:26 Asia/Singapore
