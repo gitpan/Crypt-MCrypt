@@ -2,7 +2,7 @@ NAME
     Crypt::MCrypt - Perl interface for libmcrypt C library.
 
 VERSION
-    version 0.05
+    version 0.06
 
 SYNOPSIS
          use Crypt::MCrypt;
@@ -84,8 +84,10 @@ SUPPORT
 AUTHOR
     Shantanu Bhadoria <shantanu at cpan dott org>
 
-CONTRIBUTOR
-    Shantanu Bhadoria <shantanu@cpan.org>
+CONTRIBUTORS
+    *   Shantanu <shantanu@cpan.org>
+
+    *   Shantanu Bhadoria <shantanu@cpan.org>
 
 COPYRIGHT AND LICENSE
     This software is copyright (c) 2013 by Shantanu Bhadoria.
