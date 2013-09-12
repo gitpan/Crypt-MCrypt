@@ -2,7 +2,7 @@ NAME
     Crypt::MCrypt - Perl interface for libmcrypt C library.
 
 VERSION
-    version 0.06
+    version 0.07
 
 SYNOPSIS
          use Crypt::MCrypt;
